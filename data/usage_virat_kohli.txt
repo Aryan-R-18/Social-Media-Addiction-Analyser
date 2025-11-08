@@ -1,0 +1,3 @@
+whatsapp,110,afternoon
+flipkart,35,morning
+instagram,100,night

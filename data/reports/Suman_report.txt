@@ -1,0 +1,12 @@
+=== Daily Report for Suman ===
+Total screen time: 255 mins
+
+--- App-wise Usage ---
+tinder: 100 mins
+instagram: 120 mins
+whatsapp: 35 mins
+
+--- Time Slot Breakdown ---
+night: 100 mins
+morning: 120 mins
+afternoon: 35 mins
