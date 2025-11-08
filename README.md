@@ -1,4 +1,4 @@
-```markdown
+
 # Social Media Addiction Analyzer
 
 ![C](https://img.shields.io/badge/Built%20with-C-blue)
@@ -29,7 +29,6 @@ It records app activity, categorizes usage by time slots, generates reports, and
 ---
 
 ## 🗂️ Project Structure
-```
 
 SocialMediaAddictionAnalyzer/
 │
